@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 ## Math
@@ -29,9 +30,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
