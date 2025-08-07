@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
@@ -33,6 +34,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
 | ------- |
