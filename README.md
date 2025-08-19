@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +72,5 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
+| [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
