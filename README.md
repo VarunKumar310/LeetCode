@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Geometry
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
