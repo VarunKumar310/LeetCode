@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
