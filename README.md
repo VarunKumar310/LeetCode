@@ -19,6 +19,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VarunKumar310/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VarunKumar310/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
