@@ -31,12 +31,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VarunKumar310/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -52,11 +54,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -84,4 +88,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
