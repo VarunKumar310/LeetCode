@@ -20,6 +20,7 @@
 | [0050-powx-n](https://github.com/VarunKumar310/LeetCode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/VarunKumar310/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VarunKumar310/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
@@ -102,9 +103,14 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VarunKumar310/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/VarunKumar310/LeetCode/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/VarunKumar310/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
