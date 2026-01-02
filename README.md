@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Math
@@ -42,6 +43,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VarunKumar310/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
@@ -112,5 +115,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VarunKumar310/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
