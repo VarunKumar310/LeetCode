@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunKumar310/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunKumar310/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/VarunKumar310/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunKumar310/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/VarunKumar310/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
