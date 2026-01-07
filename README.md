@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/VarunKumar310/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/VarunKumar310/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/VarunKumar310/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -120,8 +121,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VarunKumar310/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/VarunKumar310/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VarunKumar310/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VarunKumar310/LeetCode/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VarunKumar310/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
