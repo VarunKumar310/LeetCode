@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/VarunKumar310/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VarunKumar310/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/VarunKumar310/LeetCode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/VarunKumar310/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/VarunKumar310/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VarunKumar310/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/VarunKumar310/LeetCode/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VarunKumar310/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VarunKumar310/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Geometry
 |  |
@@ -138,4 +141,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/VarunKumar310/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
